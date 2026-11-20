@@ -44,3 +44,4 @@ bin/
 ### App data ###
 db/
 db_test/
+db.properties
